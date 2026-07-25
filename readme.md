@@ -137,7 +137,7 @@ Code Block:
 def greet(name):
     print(f"Hello {name}")
 
-greet("Akash")
+greet("Vaish")
 ```
 
 Another language:
@@ -163,7 +163,7 @@ int main() {
 
 | Name | Age | City |
 |------|----:|------|
-| Akash | 22 | Pune |
+| vaish | 22 | Pune |
 | Alice | 25 | Mumbai |
 | Bob | 30 | Delhi |
 
